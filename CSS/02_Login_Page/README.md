@@ -18,9 +18,7 @@ This project demonstrates the creation of a simple login form with HTML and CSS.
 </div>
 ```
 
-```css
-
-```
+![image](./login.png)
 
 ## Summary
 
