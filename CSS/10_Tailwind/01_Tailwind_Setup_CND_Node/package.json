@@ -1,0 +1,21 @@
+{
+  "name": "01_tailwind_setup_cnd_node",
+  "version": "1.0.0",
+  "description": "Tailwind Setup using CDN and Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Tailwind",
+    "CSS",
+    "HTML",
+    "Node.js"
+  ],
+  "author": "Shubham Kumar Mishra",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}
